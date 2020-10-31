@@ -24,7 +24,6 @@ Comandos a utilizar numa janela de terminal do Git Bash
 ```
 git branch -M mainPinjoa
 git remote add origin https://github.com/pinjoa/helloWorld-Delphi103CE.git
-git push -u origin mainPinjoa
 ```
 
 ## Contribuir
