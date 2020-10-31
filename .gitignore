@@ -1,0 +1,15 @@
+# ignore all .exe files
+*.exe
+
+# ignore all .bak files
+*.bak
+
+# ignore all .dproj.local files
+*.dproj.local
+
+# ignore all .identcache files
+*.identcache
+
+# ignore default project folders
+__history/
+Win*/
